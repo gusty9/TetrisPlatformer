@@ -94,5 +94,5 @@ ScriptedImporter:
         to: 1
         direction: forward
       slices: []
-    pathToSheetData: Temp/UnityTempFile-225d2d05ab02204438d7c2c19cb7e636/asetempexports/stick_data.json
-    aseFileName: Assets/aseprite/stick.aseprite
+    pathToSheetData: Temp/UnityTempFile-590252738e8bf7a4a838ed5144053054/asetempexports/stick_data.json
+    aseFileName: Assets/Sprites/stick.aseprite
